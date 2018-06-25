@@ -15,7 +15,11 @@ body {
 h1 {
 	color : #ff3300;
 	letter-spacing: 3px;
+<<<<<<< HEAD
 	word-soacing: 1px;
+=======
+	word-spacing: 2px;
+>>>>>>> task-two
 }
 h4 {
 	color: #339966;
