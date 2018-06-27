@@ -1,4 +1,4 @@
 # learning-git-2
-https://github.com/AdamMartyn/learning-git-2
+https://adammartyn.github.io/learning-git-2/
 
  
