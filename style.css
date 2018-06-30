@@ -13,14 +13,12 @@ body {
     padding: 10px 10px;
     max-width: 900px;
     text-align: center;
-    display: -ms-flexbox;
     display: flex;
 }
 
 h1 {
     color: #ff3300;
     letter-spacing: 3px;
-    word-spacing: 1px;
 }
 
 h4 {
