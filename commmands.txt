@@ -1,4 +1,4 @@
-Useage autoprefixer-cli have to type down commnd:
+Useage autoprefixer-cli have to type down command:
 "node_modules/.bin/autoprefixer-cli stle.css -o style.prefixed.css"
 Useage nu-html-checker have to type do command:
 "node_modules/.bin/nu-html-checker index.html"
