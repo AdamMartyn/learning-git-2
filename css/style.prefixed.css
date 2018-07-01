@@ -13,8 +13,6 @@ body {
     padding: 10px 10px;
     max-width: 900px;
     text-align: center;
-    display: -ms-flexbox;
-    display: flex;
 }
 
 h1 {
@@ -34,4 +32,15 @@ p {
     color: #0073e6;
     word-spacing: 3px;
     letter-spacing: 1px;
+}
+
+.test {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+
+h5 {
+    color: #339966;
 }
