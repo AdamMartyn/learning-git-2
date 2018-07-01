@@ -1,7 +1,7 @@
 Useage autoprefixer-cli have to type down commnd:
 "node_modules/.bin/autoprefixer-cli style.css -o style.prefixed.css"
 Useage nu-html-checker have to type do command:
-"node_modules/.bin/nu-html-checker index.html"
+"node_modules/.bin/nu-html-checker *.html"
 
 
 
