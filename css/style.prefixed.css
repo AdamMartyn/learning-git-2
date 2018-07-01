@@ -30,7 +30,7 @@ h4 {
 p {
     font-family: 'Pacifico', cursive;
     color: #0073e6;
-    word-spacing: 3px;
+    word-spacing: 2px;
     letter-spacing: 1px;
 }
 
@@ -38,7 +38,7 @@ p {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 h5 {
